@@ -1,2 +1,2 @@
 # RogueChSFore
-Forecasts for Rogue spring Chinool
+Forecasts tools for Rogue spring Chinook
